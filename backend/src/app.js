@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 
-// CORS - allow everything for now (development only)
+// CORS 
 app.use(cors({
   origin: '*',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
