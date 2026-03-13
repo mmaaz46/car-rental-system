@@ -134,19 +134,16 @@ POST /api/payments
 These APIs allow the frontend to fetch cars, authenticate users, and manage bookings.
 
 ---
-
 ## 8. Screenshots
 
 ### Home Page
-![Home Page] (https://github.com/mmaaz46/car-rental-system/raw/main/Home%20Page.png)
+![Home Page](https://github.com/mmaaz46/car-rental-system/raw/main/Home%20Page.png)
 
 ### Booking Page
-![Booking Page] (https://github.com/mmaaz46/car-rental-system/raw/main/Booking%20Page.png)
+![Booking Page](https://github.com/mmaaz46/car-rental-system/raw/main/Booking%20Page.png)
 
 ### Admin Dashboard
-![Admin Dashboard] (https://github.com/mmaaz46/car-rental-system/raw/main/Admin%20Dashboard.png)
-
-
+![Admin Dashboard](https://github.com/mmaaz46/car-rental-system/raw/main/Admin%20Dashboard.png)
 ---
 
 ## 9. Author
